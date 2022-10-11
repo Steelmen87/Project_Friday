@@ -1,12 +1,12 @@
 import React from 'react'
 
 
-function EnteringAnewPassword() {
+function PasswordRecovery() {
     return (
         <div>
-            EnteringAnewPassword
+            Password recovery
         </div>
     )
 }
 
-export default EnteringAnewPassword
+export default PasswordRecovery

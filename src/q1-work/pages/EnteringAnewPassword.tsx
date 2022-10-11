@@ -4,7 +4,7 @@ import React from 'react'
 function EnteringAnewPassword() {
     return (
         <div>
-            EnteringAnewPassword
+            Entering a new Password
         </div>
     )
 }

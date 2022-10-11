@@ -20,7 +20,7 @@ function Header() {
                 </li>
                 <li>
                     <NavLink to={PATH.ENTERING_NEW_PASSWORD}>
-                        Entering a new password
+                        New password
                     </NavLink>
                 </li>
                 <li><NavLink to={PATH.TEST}>Test</NavLink>

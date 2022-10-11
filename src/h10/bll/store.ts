@@ -1,8 +1,8 @@
 import {combineReducers, createStore} from 'redux'
-import {HW13Reducer} from './HW13Reducer'
+import {HW14Reducer} from './HW14Reducer'
 
 const reducers = combineReducers({
-    loading: HW13Reducer,
+    somethingAC: HW14Reducer,
 })
 
 const store = createStore(reducers)
